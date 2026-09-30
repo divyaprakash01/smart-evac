@@ -136,7 +136,6 @@ The modules generate the intermediate CSV files required by later stages.
 - Divya Prakash
 - Aditya
 
-> Contributions should be described according to each member's actual work on the project.
 
 ## Project Context
 
